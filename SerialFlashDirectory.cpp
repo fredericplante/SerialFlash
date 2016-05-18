@@ -26,6 +26,7 @@
  */
 
 #include "SerialFlash.h"
+//Comment out next line for Arduino Due
 #include "util/crc16.h"
 
 /* On-chip SerialFlash file allocation data structures:
